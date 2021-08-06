@@ -19,4 +19,4 @@ Learn how to style and set the active link in this Material-UI Tutorial
 
 # View the tutorial
 
-https://snappywebdesign.net/blog/how-to-set-active-list-item-link-material-ui/
+https://snappywebdesign.net/blog/how-to-set-an-active-list-item-link-material-ui/
